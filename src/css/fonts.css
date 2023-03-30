@@ -1,8 +1,6 @@
 @font-face {
   font-family: "SuisseIntl";
-  src: url(@/assets/fonts/Suisse_Intl/SuisseIntl-Regular.eot);
   src: local("SuisseIntl Regular"), local("SuisseIntl-Regular"),
-    url(@/assets/fonts/Suisse_Intl/SuisseIntl-Regular.eot?#iefix) format("embedded-opentype"),
     url(@/assets/fonts/Suisse_Intl/SuisseIntl-Regular.woff) format("woff"),
     url(@/assets/fonts/Suisse_Intl/SuisseIntl-Regular.ttf) format("ttf");
   font-weight: 400;
@@ -11,9 +9,7 @@
 
 @font-face {
   font-family: "SuisseIntl";
-  src: url(@/assets/fonts/Suisse_Intl/SuisseIntl-Medium.eot);
   src: local("SuisseIntl Bold"), local("SuisseIntl-Medium"),
-    url(@/assets/fonts/Suisse_Intl/SuisseIntl-Medium.eot?#iefix) format("embedded-opentype"),
     url(@/assets/fonts/Suisse_Intl/SuisseIntl-Medium.woff) format("woff"),
     url(@/assets/fonts/Suisse_Intl/SuisseIntl-Medium.ttf) format("ttf");
   font-weight: 500;
@@ -22,9 +18,7 @@
 
 @font-face {
   font-family: "SuisseIntl";
-  src: url(@/assets/fonts/Suisse_Intl/SuisseIntl-Bold.eot);
   src: local("SuisseIntl Bold"), local("SuisseIntl-Bold"),
-  url(@/assets/fonts/Suisse_Intl/SuisseIntl-Bold.eot?#iefix) format("embedded-opentype"),
   url(@/assets/fonts/Suisse_Intl/SuisseIntl-Bold.woff) format("woff"),
   url(@/assets/fonts/Suisse_Intl/SuisseIntl-Bold.ttf) format("ttf");
   font-weight: 700;
